@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head><title>My First Web Page!</title></head>
+<body>
+<header>
+<h1>Hello World!</h1>
+<a href="Index.html">
+<img src="logo.jpg"  alt="Mahirah's Website" title="Mahirah's Website">
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="Index.html">Home</a></td>
+<td><a href="Biodata.html">Biodata</a></td>
+<td><a href="Experience.html">Experience</a></td>
+<td><a href="Education.html">Education</a></td>
+<td><a href="Family.html">Family</a></td>
+<td><a href="Gallery.html">Gallery</a></td>
+</tr>
+</table>
+</nav>
+<hr>
+<h2>Welcome to My Website^-^</h2>
+
+<center><img src="Intro.jpg"   style=width:500px;height="300"></center>
+<body style="background-color:Grey;">
+<body text="white">
+
+
+</body>
